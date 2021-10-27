@@ -10,7 +10,7 @@ let resetButton = document.querySelector("#reset");
 
 let headerText = document.querySelector("#header-text");
 
-//FUNCTIONS
+//FUNCTIONS go here
 
 console.log("hello world");
 
